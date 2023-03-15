@@ -12075,7 +12075,7 @@ pre .code {
   height: 100%;
   /*background-image: -webkit-linear-gradient(bottom, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgb(7, 7, 7) 100%);*/
   /*background-image: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 100%, rgba(105, 90, 166, 0.5) 50%);*/
-  background-image: linear-gradient(to top, #070707 20%,  rgba(110, 111, 113, 0.35) 75%);
+  background-image: linear-gradient(to top, #070707 20%,  rgba(110, 111, 113, 0.10) 75%);
 
 }
 
